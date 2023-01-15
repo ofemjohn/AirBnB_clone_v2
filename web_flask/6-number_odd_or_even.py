@@ -74,7 +74,7 @@
 
     
 
-  <meta name="request-id" content="3284:BB51:141E78D:1506D9C:63C46A3D" data-pjax-transient="true"/><meta name="html-safe-nonce" content="63ac3ee244b9a99075c2a13d77b82ebb615bb248b869251443bcd95e5cdb7ada" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiIzMjg0OkJCNTE6MTQxRTc4RDoxNTA2RDlDOjYzQzQ2QTNEIiwidmlzaXRvcl9pZCI6IjMxNDYxMTgxNTAwOTI0OTg1MyIsInJlZ2lvbl9lZGdlIjoiZnJhIiwicmVnaW9uX3JlbmRlciI6ImZyYSJ9" data-pjax-transient="true"/><meta name="visitor-hmac" content="daccf8aa4b968ace1d04e95564b846cf1ec0bb4898e88cfe393514a4f1f30226" data-pjax-transient="true"/>
+  <meta name="request-id" content="A754:B6C9:1C8EA41:1DC3EDD:63C46FB2" data-pjax-transient="true"/><meta name="html-safe-nonce" content="b6187f6bc3f1bbe473387b03c4c40ff8fd58be1d61ea4775b2abcaab361b8a8f" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJBNzU0OkI2Qzk6MUM4RUE0MToxREMzRUREOjYzQzQ2RkIyIiwidmlzaXRvcl9pZCI6Ijc3MTcxMzM4NzExNzkxMzI4NTAiLCJyZWdpb25fZWRnZSI6ImZyYSIsInJlZ2lvbl9yZW5kZXIiOiJmcmEifQ==" data-pjax-transient="true"/><meta name="visitor-hmac" content="4725137209afbb34ebd8fced0bf3c483a6e179f756d3da22b06fba0c68b50e14" data-pjax-transient="true"/>
 
 
     <meta name="hovercard-subject-tag" content="repository:178491513" data-turbo-transient>
@@ -572,7 +572,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="EuFWVeRQi0ef+At4KZvSA4ZEBN5rmLT2PEe5+UflqDRk5kR/dB77xtuVLO4+LL1dXCqrCrtyrOwtA6rDl7CS+w==" />
+        <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="mU9d4Tji32yTOU+hTHvGnn8hxkR+bwGDIkXa/bYW556h+of3MLhxSBCoxOYP1Q0A11KeqQcfti3fm01PIC4XBA==" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -1513,7 +1513,7 @@
     <div class="d-flex">
         
 <div class="ml-1" data-test-selector="edit-dropdown-menu-component">
-  <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/bdbaraban/AirBnB_clone_v2/edit/master/web_flask/6-number_odd_or_even.py" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="iy4p1TbqSazbSLAx9iOcvFFsB_8KvNU8kOWGOGBtG46neV9WLA-0WTJf-c4-5aCsJKVHNR31mORrdp0awuhzZg" autocomplete="off" />
+  <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/bdbaraban/AirBnB_clone_v2/edit/master/web_flask/6-number_odd_or_even.py" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="sv6U44Tx_Xd1nAuJp0yHQks6X0vfy2xU-llq2EhW2doNgUKTYpT_fWcIO-_wkkYM1jZgXeWLflZfxmDfQB6r5g" autocomplete="off" />
       <button disabled="disabled" title="You must be signed in to make or propose changes" data-hotkey="e" data-disable-with="" data-test-selector="edit-icon-button" type="submit" data-view-component="true" class="btn-sm BtnGroup-item btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
     <path fill-rule="evenodd" d="M11.013 1.427a1.75 1.75 0 012.474 0l1.086 1.086a1.75 1.75 0 010 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 01-.927-.928l.929-3.25a1.75 1.75 0 01.445-.758l8.61-8.61zm1.414 1.06a.25.25 0 00-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 000-.354l-1.086-1.086zM11.189 6.25L9.75 4.81l-6.286 6.287a.25.25 0 00-.064.108l-.558 1.953 1.953-.558a.249.249 0 00.108-.064l6.286-6.286z"></path>
 </svg>
@@ -1523,7 +1523,7 @@
 </summary>    <div class="SelectMenu right-0">
       <div class="SelectMenu-modal width-full">
         <div class="SelectMenu-list SelectMenu-list--borderless py-2">
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/bdbaraban/AirBnB_clone_v2/edit/master/web_flask/6-number_odd_or_even.py" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="uQIrbWwh11stPDMuS_N2be26HaoLNmfagsza1trz6iSVVV3udsQqrsQretGDNUp9mHNdYBx_KgJ5X8H0eHaCzA" autocomplete="off" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/bdbaraban/AirBnB_clone_v2/edit/master/web_flask/6-number_odd_or_even.py" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="J14ZC-DXWgmZepFBsxioCj-btpXdXKNJoqAILhk1L-uYIc97BrJYA4vuoSfkxmlEopeJg-ccsUsHPwIpEX1d1w" autocomplete="off" />
               <button disabled="disabled" title="You must be signed in to make or propose changes" data-test-selector="edit-text-button" type="submit" data-view-component="true" class="btn-invisible btn width-full d-flex flex-justify-between color-fg-muted text-normal p-0">    <div class="mr-5">Edit this file</div>
               <div class="color-fg-muted">E</div>
 </button></form>
