@@ -74,7 +74,7 @@
 
     
 
-  <meta name="request-id" content="A754:B6C9:1C8EA41:1DC3EDD:63C46FB2" data-pjax-transient="true"/><meta name="html-safe-nonce" content="b6187f6bc3f1bbe473387b03c4c40ff8fd58be1d61ea4775b2abcaab361b8a8f" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJBNzU0OkI2Qzk6MUM4RUE0MToxREMzRUREOjYzQzQ2RkIyIiwidmlzaXRvcl9pZCI6Ijc3MTcxMzM4NzExNzkxMzI4NTAiLCJyZWdpb25fZWRnZSI6ImZyYSIsInJlZ2lvbl9yZW5kZXIiOiJmcmEifQ==" data-pjax-transient="true"/><meta name="visitor-hmac" content="4725137209afbb34ebd8fced0bf3c483a6e179f756d3da22b06fba0c68b50e14" data-pjax-transient="true"/>
+  <meta name="request-id" content="8DFC:351D:1FC3159:2119871:63C47FB5" data-pjax-transient="true"/><meta name="html-safe-nonce" content="094df0aae33f2efcaf1c2f16ce9eb7e2c1785414111d0a81fc87c342272b6780" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiI4REZDOjM1MUQ6MUZDMzE1OToyMTE5ODcxOjYzQzQ3RkI1IiwidmlzaXRvcl9pZCI6IjYxODg0Mjg0OTc5NzYwNjU5NzQiLCJyZWdpb25fZWRnZSI6ImZyYSIsInJlZ2lvbl9yZW5kZXIiOiJmcmEifQ==" data-pjax-transient="true"/><meta name="visitor-hmac" content="8b01a146224b9d6de6232506f694a331fe99dc255eae455af63961081c8c00b5" data-pjax-transient="true"/>
 
 
     <meta name="hovercard-subject-tag" content="repository:178491513" data-turbo-transient>
@@ -572,7 +572,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="mU9d4Tji32yTOU+hTHvGnn8hxkR+bwGDIkXa/bYW556h+of3MLhxSBCoxOYP1Q0A11KeqQcfti3fm01PIC4XBA==" />
+        <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="ByScZhvoi2kOvDQFQi6+kdlM9vmyW5lSmP/j+fBpArZ8LZJtT41i+8MRTnDBKoCgOcGBHNAVQw6/96yqrq9vlA==" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -1402,11 +1402,11 @@
   <div class="Box-header Details js-details-container">
       <div class="d-flex flex-items-center">
         <span class="flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1">
-          <a rel="contributor" href="/234761"><img class="avatar avatar-user" skip_hovercard="23" src="https://avatars.githubusercontent.com/u/101374310?s=48&amp;v=4" width="24" height="24" alt="@234761" /></a>
+          <a rel="contributor" data-hovercard-type="user" data-hovercard-url="/users/234761/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/234761"><img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/101374310?s=48&amp;v=4" width="24" height="24" alt="@234761" /></a>
         </span>
         <div class="flex-1 d-flex flex-items-center ml-3 min-width-0">
           <div class="css-truncate css-truncate-overflow">
-            <a class="text-bold Link--primary" rel="contributor" href="/234761">234761</a>
+            <a class="text-bold Link--primary" rel="contributor" data-hovercard-type="user" data-hovercard-url="/users/234761/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/234761">234761</a>
 
               <span class="markdown-title">
                 <a data-pjax="true" title="Upload task 6: Flask app building on file 5 with template route /number_odd_or_even/&lt;n&gt;" class="Link--secondary" href="/bdbaraban/AirBnB_clone_v2/commit/700bb104152cd4f1672dd51e27494761bda9a8cf">Upload task 6: Flask app building on file 5 with template route /numb…</a>
@@ -1513,7 +1513,7 @@
     <div class="d-flex">
         
 <div class="ml-1" data-test-selector="edit-dropdown-menu-component">
-  <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/bdbaraban/AirBnB_clone_v2/edit/master/web_flask/6-number_odd_or_even.py" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="sv6U44Tx_Xd1nAuJp0yHQks6X0vfy2xU-llq2EhW2doNgUKTYpT_fWcIO-_wkkYM1jZgXeWLflZfxmDfQB6r5g" autocomplete="off" />
+  <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/bdbaraban/AirBnB_clone_v2/edit/master/web_flask/6-number_odd_or_even.py" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="dPFebqheKg3XB_m_9INjhK1aPycdUB5H913JzDz7dW6eppzRNfCUrehaG0f8bzDGvbH1RbLJdibhdz8UZKTj_A" autocomplete="off" />
       <button disabled="disabled" title="You must be signed in to make or propose changes" data-hotkey="e" data-disable-with="" data-test-selector="edit-icon-button" type="submit" data-view-component="true" class="btn-sm BtnGroup-item btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
     <path fill-rule="evenodd" d="M11.013 1.427a1.75 1.75 0 012.474 0l1.086 1.086a1.75 1.75 0 010 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 01-.927-.928l.929-3.25a1.75 1.75 0 01.445-.758l8.61-8.61zm1.414 1.06a.25.25 0 00-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 000-.354l-1.086-1.086zM11.189 6.25L9.75 4.81l-6.286 6.287a.25.25 0 00-.064.108l-.558 1.953 1.953-.558a.249.249 0 00.108-.064l6.286-6.286z"></path>
 </svg>
@@ -1523,7 +1523,7 @@
 </summary>    <div class="SelectMenu right-0">
       <div class="SelectMenu-modal width-full">
         <div class="SelectMenu-list SelectMenu-list--borderless py-2">
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/bdbaraban/AirBnB_clone_v2/edit/master/web_flask/6-number_odd_or_even.py" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="J14ZC-DXWgmZepFBsxioCj-btpXdXKNJoqAILhk1L-uYIc97BrJYA4vuoSfkxmlEopeJg-ccsUsHPwIpEX1d1w" autocomplete="off" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/bdbaraban/AirBnB_clone_v2/edit/master/web_flask/6-number_odd_or_even.py" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Xj-MUnuZ_DafjXRIuzFlatqoAGubiJIbBorD1fidRs60aE7t5jdClqDQlrCz3TYoykPKCTQR-noQoDUNoMLQXA" autocomplete="off" />
               <button disabled="disabled" title="You must be signed in to make or propose changes" data-test-selector="edit-text-button" type="submit" data-view-component="true" class="btn-invisible btn width-full d-flex flex-justify-between color-fg-muted text-normal p-0">    <div class="mr-5">Edit this file</div>
               <div class="color-fg-muted">E</div>
 </button></form>
